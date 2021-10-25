@@ -1,0 +1,16 @@
+C:\Users\angol\source\repos\MassFileProcessByMKVToolNix\SubtitleFilesConverterToUTF8\bin\Debug\net5.0\SubtitleFilesConverterToUTF8.exe
+C:\Users\angol\source\repos\MassFileProcessByMKVToolNix\SubtitleFilesConverterToUTF8\bin\Debug\net5.0\SubtitleFilesConverterToUTF8.deps.json
+C:\Users\angol\source\repos\MassFileProcessByMKVToolNix\SubtitleFilesConverterToUTF8\bin\Debug\net5.0\SubtitleFilesConverterToUTF8.runtimeconfig.json
+C:\Users\angol\source\repos\MassFileProcessByMKVToolNix\SubtitleFilesConverterToUTF8\bin\Debug\net5.0\SubtitleFilesConverterToUTF8.runtimeconfig.dev.json
+C:\Users\angol\source\repos\MassFileProcessByMKVToolNix\SubtitleFilesConverterToUTF8\bin\Debug\net5.0\SubtitleFilesConverterToUTF8.dll
+C:\Users\angol\source\repos\MassFileProcessByMKVToolNix\SubtitleFilesConverterToUTF8\bin\Debug\net5.0\ref\SubtitleFilesConverterToUTF8.dll
+C:\Users\angol\source\repos\MassFileProcessByMKVToolNix\SubtitleFilesConverterToUTF8\bin\Debug\net5.0\SubtitleFilesConverterToUTF8.pdb
+C:\Users\angol\source\repos\MassFileProcessByMKVToolNix\SubtitleFilesConverterToUTF8\obj\Debug\net5.0\SubtitleFilesConverterToUTF8.csproj.AssemblyReference.cache
+C:\Users\angol\source\repos\MassFileProcessByMKVToolNix\SubtitleFilesConverterToUTF8\obj\Debug\net5.0\SubtitleFilesConverterToUTF8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angol\source\repos\MassFileProcessByMKVToolNix\SubtitleFilesConverterToUTF8\obj\Debug\net5.0\SubtitleFilesConverterToUTF8.AssemblyInfoInputs.cache
+C:\Users\angol\source\repos\MassFileProcessByMKVToolNix\SubtitleFilesConverterToUTF8\obj\Debug\net5.0\SubtitleFilesConverterToUTF8.AssemblyInfo.cs
+C:\Users\angol\source\repos\MassFileProcessByMKVToolNix\SubtitleFilesConverterToUTF8\obj\Debug\net5.0\SubtitleFilesConverterToUTF8.csproj.CoreCompileInputs.cache
+C:\Users\angol\source\repos\MassFileProcessByMKVToolNix\SubtitleFilesConverterToUTF8\obj\Debug\net5.0\SubtitleFilesConverterToUTF8.dll
+C:\Users\angol\source\repos\MassFileProcessByMKVToolNix\SubtitleFilesConverterToUTF8\obj\Debug\net5.0\ref\SubtitleFilesConverterToUTF8.dll
+C:\Users\angol\source\repos\MassFileProcessByMKVToolNix\SubtitleFilesConverterToUTF8\obj\Debug\net5.0\SubtitleFilesConverterToUTF8.pdb
+C:\Users\angol\source\repos\MassFileProcessByMKVToolNix\SubtitleFilesConverterToUTF8\obj\Debug\net5.0\SubtitleFilesConverterToUTF8.genruntimeconfig.cache

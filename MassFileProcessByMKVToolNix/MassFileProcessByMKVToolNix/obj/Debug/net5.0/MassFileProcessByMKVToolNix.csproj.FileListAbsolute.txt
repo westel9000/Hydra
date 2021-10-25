@@ -1,0 +1,16 @@
+C:\Users\angol\source\repos\MassFileProcessByMKVToolNix\MassFileProcessByMKVToolNix\bin\Debug\net5.0\MassFileProcessByMKVToolNix.exe
+C:\Users\angol\source\repos\MassFileProcessByMKVToolNix\MassFileProcessByMKVToolNix\bin\Debug\net5.0\MassFileProcessByMKVToolNix.deps.json
+C:\Users\angol\source\repos\MassFileProcessByMKVToolNix\MassFileProcessByMKVToolNix\bin\Debug\net5.0\MassFileProcessByMKVToolNix.runtimeconfig.json
+C:\Users\angol\source\repos\MassFileProcessByMKVToolNix\MassFileProcessByMKVToolNix\bin\Debug\net5.0\MassFileProcessByMKVToolNix.runtimeconfig.dev.json
+C:\Users\angol\source\repos\MassFileProcessByMKVToolNix\MassFileProcessByMKVToolNix\bin\Debug\net5.0\MassFileProcessByMKVToolNix.dll
+C:\Users\angol\source\repos\MassFileProcessByMKVToolNix\MassFileProcessByMKVToolNix\bin\Debug\net5.0\ref\MassFileProcessByMKVToolNix.dll
+C:\Users\angol\source\repos\MassFileProcessByMKVToolNix\MassFileProcessByMKVToolNix\bin\Debug\net5.0\MassFileProcessByMKVToolNix.pdb
+C:\Users\angol\source\repos\MassFileProcessByMKVToolNix\MassFileProcessByMKVToolNix\obj\Debug\net5.0\MassFileProcessByMKVToolNix.csproj.AssemblyReference.cache
+C:\Users\angol\source\repos\MassFileProcessByMKVToolNix\MassFileProcessByMKVToolNix\obj\Debug\net5.0\MassFileProcessByMKVToolNix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angol\source\repos\MassFileProcessByMKVToolNix\MassFileProcessByMKVToolNix\obj\Debug\net5.0\MassFileProcessByMKVToolNix.AssemblyInfoInputs.cache
+C:\Users\angol\source\repos\MassFileProcessByMKVToolNix\MassFileProcessByMKVToolNix\obj\Debug\net5.0\MassFileProcessByMKVToolNix.AssemblyInfo.cs
+C:\Users\angol\source\repos\MassFileProcessByMKVToolNix\MassFileProcessByMKVToolNix\obj\Debug\net5.0\MassFileProcessByMKVToolNix.csproj.CoreCompileInputs.cache
+C:\Users\angol\source\repos\MassFileProcessByMKVToolNix\MassFileProcessByMKVToolNix\obj\Debug\net5.0\MassFileProcessByMKVToolNix.dll
+C:\Users\angol\source\repos\MassFileProcessByMKVToolNix\MassFileProcessByMKVToolNix\obj\Debug\net5.0\ref\MassFileProcessByMKVToolNix.dll
+C:\Users\angol\source\repos\MassFileProcessByMKVToolNix\MassFileProcessByMKVToolNix\obj\Debug\net5.0\MassFileProcessByMKVToolNix.pdb
+C:\Users\angol\source\repos\MassFileProcessByMKVToolNix\MassFileProcessByMKVToolNix\obj\Debug\net5.0\MassFileProcessByMKVToolNix.genruntimeconfig.cache
