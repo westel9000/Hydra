@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\angol\\source\\repos\\MassFileProcessByMKVToolNix\\SubtitleFilesConverterToUTF8\\SubtitleFilesConverterToUTF8.csproj",
+      "projectUniqueName": "d:\\AmazonCD6\\Hydra\\MassFileProcessByMKVToolNix\\SubtitleFilesConverterToUTF8\\SubtitleFilesConverterToUTF8.csproj",
       "projectName": "SubtitleFilesConverterToUTF8",
-      "projectPath": "C:\\Users\\angol\\source\\repos\\MassFileProcessByMKVToolNix\\SubtitleFilesConverterToUTF8\\SubtitleFilesConverterToUTF8.csproj",
+      "projectPath": "d:\\AmazonCD6\\Hydra\\MassFileProcessByMKVToolNix\\SubtitleFilesConverterToUTF8\\SubtitleFilesConverterToUTF8.csproj",
       "packagesPath": "C:\\Users\\angol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\angol\\source\\repos\\MassFileProcessByMKVToolNix\\SubtitleFilesConverterToUTF8\\obj\\",
+      "outputPath": "d:\\AmazonCD6\\Hydra\\MassFileProcessByMKVToolNix\\SubtitleFilesConverterToUTF8\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -7,6 +7,10 @@ using System.Threading.Tasks;
 
 namespace MassFileProcessByMKVToolNix
 {
+    /// <summary>
+    /// Segédosztály.
+    /// Összetartozó videó és feliratfájlok adatait és évad, epizód információját tartalmazó osztály.
+    /// </summary>
     public class VideoAndSubtitleUnit
     {
         public FileInfo videoFile { get; set; }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\angol\\source\\repos\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix.csproj": {}
+    "d:\\AmazonCD6\\Hydra\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix.csproj": {}
   },
   "projects": {
-    "C:\\Users\\angol\\source\\repos\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix.csproj": {
+    "d:\\AmazonCD6\\Hydra\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\angol\\source\\repos\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix.csproj",
+        "projectUniqueName": "d:\\AmazonCD6\\Hydra\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix.csproj",
         "projectName": "MassFileProcessByMKVToolNix",
-        "projectPath": "C:\\Users\\angol\\source\\repos\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix.csproj",
+        "projectPath": "d:\\AmazonCD6\\Hydra\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix.csproj",
         "packagesPath": "C:\\Users\\angol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\angol\\source\\repos\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix\\obj\\",
+        "outputPath": "d:\\AmazonCD6\\Hydra\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
