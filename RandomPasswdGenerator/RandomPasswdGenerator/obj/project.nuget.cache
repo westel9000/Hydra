@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XUdVV0TrA/R7E+QCNz+ZDvAJpCOZg4XWYDhJY+sLOe1HvI760hfnImLo497dIPib2F3MQk6VWSqMCGjBpDm2Qw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\boguszlavszky.gyorgy\\source\\repos\\Hydra\\RandomPasswdGenerator\\RandomPasswdGenerator\\RandomPasswdGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\boguszlavszky.gyorgy\\.nuget\\packages\\passwordgenerator\\2.0.5\\passwordgenerator.2.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

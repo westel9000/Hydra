@@ -1,0 +1,12 @@
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\RandomPwGeneratorFramew\RandomPwGeneratorFramew\bin\Debug\RandomPwGeneratorFramew.exe.config
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\RandomPwGeneratorFramew\RandomPwGeneratorFramew\bin\Debug\RandomPwGeneratorFramew.exe
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\RandomPwGeneratorFramew\RandomPwGeneratorFramew\bin\Debug\RandomPwGeneratorFramew.pdb
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\RandomPwGeneratorFramew\RandomPwGeneratorFramew\bin\Debug\WebMatrix.Data.dll
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\RandomPwGeneratorFramew\RandomPwGeneratorFramew\bin\Debug\WebMatrix.WebData.dll
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\RandomPwGeneratorFramew\RandomPwGeneratorFramew\bin\Debug\WebMatrix.Data.xml
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\RandomPwGeneratorFramew\RandomPwGeneratorFramew\bin\Debug\WebMatrix.WebData.xml
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\RandomPwGeneratorFramew\RandomPwGeneratorFramew\obj\Debug\RandomPwGeneratorFramew.csproj.AssemblyReference.cache
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\RandomPwGeneratorFramew\RandomPwGeneratorFramew\obj\Debug\RandomPwGeneratorFramew.csproj.CoreCompileInputs.cache
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\RandomPwGeneratorFramew\RandomPwGeneratorFramew\obj\Debug\RandomPwGeneratorFramew.csproj.CopyComplete
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\RandomPwGeneratorFramew\RandomPwGeneratorFramew\obj\Debug\RandomPwGeneratorFramew.exe
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\RandomPwGeneratorFramew\RandomPwGeneratorFramew\obj\Debug\RandomPwGeneratorFramew.pdb

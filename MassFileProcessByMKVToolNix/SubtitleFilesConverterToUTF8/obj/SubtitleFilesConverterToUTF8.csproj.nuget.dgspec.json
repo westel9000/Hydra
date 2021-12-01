@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "d:\\AmazonCD6\\Hydra\\MassFileProcessByMKVToolNix\\SubtitleFilesConverterToUTF8\\SubtitleFilesConverterToUTF8.csproj": {}
+    "C:\\Users\\boguszlavszky.gyorgy\\source\\repos\\Hydra\\MassFileProcessByMKVToolNix\\SubtitleFilesConverterToUTF8\\SubtitleFilesConverterToUTF8.csproj": {}
   },
   "projects": {
-    "d:\\AmazonCD6\\Hydra\\MassFileProcessByMKVToolNix\\SubtitleFilesConverterToUTF8\\SubtitleFilesConverterToUTF8.csproj": {
+    "C:\\Users\\boguszlavszky.gyorgy\\source\\repos\\Hydra\\MassFileProcessByMKVToolNix\\SubtitleFilesConverterToUTF8\\SubtitleFilesConverterToUTF8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\AmazonCD6\\Hydra\\MassFileProcessByMKVToolNix\\SubtitleFilesConverterToUTF8\\SubtitleFilesConverterToUTF8.csproj",
+        "projectUniqueName": "C:\\Users\\boguszlavszky.gyorgy\\source\\repos\\Hydra\\MassFileProcessByMKVToolNix\\SubtitleFilesConverterToUTF8\\SubtitleFilesConverterToUTF8.csproj",
         "projectName": "SubtitleFilesConverterToUTF8",
-        "projectPath": "d:\\AmazonCD6\\Hydra\\MassFileProcessByMKVToolNix\\SubtitleFilesConverterToUTF8\\SubtitleFilesConverterToUTF8.csproj",
-        "packagesPath": "C:\\Users\\angol\\.nuget\\packages\\",
-        "outputPath": "d:\\AmazonCD6\\Hydra\\MassFileProcessByMKVToolNix\\SubtitleFilesConverterToUTF8\\obj\\",
+        "projectPath": "C:\\Users\\boguszlavszky.gyorgy\\source\\repos\\Hydra\\MassFileProcessByMKVToolNix\\SubtitleFilesConverterToUTF8\\SubtitleFilesConverterToUTF8.csproj",
+        "packagesPath": "C:\\Users\\boguszlavszky.gyorgy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\boguszlavszky.gyorgy\\source\\repos\\Hydra\\MassFileProcessByMKVToolNix\\SubtitleFilesConverterToUTF8\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\angol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\boguszlavszky.gyorgy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

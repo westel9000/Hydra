@@ -1,0 +1,14 @@
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\SevenZipAll\SevenZipAll\bin\Debug\netcoreapp3.1\SevenZipAll.exe
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\SevenZipAll\SevenZipAll\bin\Debug\netcoreapp3.1\SevenZipAll.deps.json
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\SevenZipAll\SevenZipAll\bin\Debug\netcoreapp3.1\SevenZipAll.runtimeconfig.json
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\SevenZipAll\SevenZipAll\bin\Debug\netcoreapp3.1\SevenZipAll.runtimeconfig.dev.json
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\SevenZipAll\SevenZipAll\bin\Debug\netcoreapp3.1\SevenZipAll.dll
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\SevenZipAll\SevenZipAll\bin\Debug\netcoreapp3.1\SevenZipAll.pdb
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\SevenZipAll\SevenZipAll\obj\Debug\netcoreapp3.1\SevenZipAll.csproj.AssemblyReference.cache
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\SevenZipAll\SevenZipAll\obj\Debug\netcoreapp3.1\SevenZipAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\SevenZipAll\SevenZipAll\obj\Debug\netcoreapp3.1\SevenZipAll.AssemblyInfoInputs.cache
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\SevenZipAll\SevenZipAll\obj\Debug\netcoreapp3.1\SevenZipAll.AssemblyInfo.cs
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\SevenZipAll\SevenZipAll\obj\Debug\netcoreapp3.1\SevenZipAll.csproj.CoreCompileInputs.cache
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\SevenZipAll\SevenZipAll\obj\Debug\netcoreapp3.1\SevenZipAll.dll
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\SevenZipAll\SevenZipAll\obj\Debug\netcoreapp3.1\SevenZipAll.pdb
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\SevenZipAll\SevenZipAll\obj\Debug\netcoreapp3.1\SevenZipAll.genruntimeconfig.cache

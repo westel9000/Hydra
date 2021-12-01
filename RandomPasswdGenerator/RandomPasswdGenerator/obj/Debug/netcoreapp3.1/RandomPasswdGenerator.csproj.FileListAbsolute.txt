@@ -1,0 +1,17 @@
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\RandomPasswdGenerator\RandomPasswdGenerator\bin\Debug\netcoreapp3.1\RandomPasswdGenerator.exe
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\RandomPasswdGenerator\RandomPasswdGenerator\bin\Debug\netcoreapp3.1\RandomPasswdGenerator.deps.json
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\RandomPasswdGenerator\RandomPasswdGenerator\bin\Debug\netcoreapp3.1\RandomPasswdGenerator.runtimeconfig.json
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\RandomPasswdGenerator\RandomPasswdGenerator\bin\Debug\netcoreapp3.1\RandomPasswdGenerator.runtimeconfig.dev.json
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\RandomPasswdGenerator\RandomPasswdGenerator\bin\Debug\netcoreapp3.1\RandomPasswdGenerator.dll
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\RandomPasswdGenerator\RandomPasswdGenerator\bin\Debug\netcoreapp3.1\RandomPasswdGenerator.pdb
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\RandomPasswdGenerator\RandomPasswdGenerator\obj\Debug\netcoreapp3.1\RandomPasswdGenerator.csproj.AssemblyReference.cache
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\RandomPasswdGenerator\RandomPasswdGenerator\obj\Debug\netcoreapp3.1\RandomPasswdGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\RandomPasswdGenerator\RandomPasswdGenerator\obj\Debug\netcoreapp3.1\RandomPasswdGenerator.AssemblyInfoInputs.cache
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\RandomPasswdGenerator\RandomPasswdGenerator\obj\Debug\netcoreapp3.1\RandomPasswdGenerator.AssemblyInfo.cs
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\RandomPasswdGenerator\RandomPasswdGenerator\obj\Debug\netcoreapp3.1\RandomPasswdGenerator.csproj.CoreCompileInputs.cache
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\RandomPasswdGenerator\RandomPasswdGenerator\obj\Debug\netcoreapp3.1\RandomPasswdGenerator.dll
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\RandomPasswdGenerator\RandomPasswdGenerator\obj\Debug\netcoreapp3.1\RandomPasswdGenerator.pdb
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\RandomPasswdGenerator\RandomPasswdGenerator\obj\Debug\netcoreapp3.1\RandomPasswdGenerator.genruntimeconfig.cache
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\RandomPasswdGenerator\RandomPasswdGenerator\bin\Debug\netcoreapp3.1\PasswordGenerator.dll
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\RandomPasswdGenerator\RandomPasswdGenerator\bin\Debug\netcoreapp3.1\System.Web.Mobile.dll
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\RandomPasswdGenerator\RandomPasswdGenerator\obj\Debug\netcoreapp3.1\RandomPasswdGenerator.csproj.CopyComplete
