@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.IO;
 using System.IO.Compression;
-using System.Reflection;
+//using System.Reflection;
 
 namespace SevenZipAll
 {
@@ -10,7 +10,8 @@ namespace SevenZipAll
     {
         static void Main(string[] args)
         {
-			var directoryInfoLista = FileUtils.KonytvarLista(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location));
+			//var directoryInfoLista = FileUtils.KonytvarLista(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location));
+			var directoryInfoLista = FileUtils.KonytvarLista(Directory.GetCurrentDirectory());
 
             foreach (var itemToZip in directoryInfoLista)
             {

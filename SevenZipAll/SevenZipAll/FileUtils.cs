@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
+using System.Reflection;
 using System.Text;
 
 namespace SevenZipAll
@@ -33,7 +34,7 @@ namespace SevenZipAll
             // Initialize process information.
             //
             ProcessStartInfo p = new ProcessStartInfo();
-            p.FileName = "7za.exe";
+            p.FileName = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location) + "\\" + "7za.exe";
 
             // 2
             // Use 7-zip
@@ -50,6 +51,7 @@ namespace SevenZipAll
             // 3.
             // Start process and wait for it to exit
             //
+            //Console.WriteLine("Fájlnév: " + p.FileName.ToString() + " argumentumok: " + argumentumok);
             Process x = Process.Start(p);
             x.WaitForExit();
 

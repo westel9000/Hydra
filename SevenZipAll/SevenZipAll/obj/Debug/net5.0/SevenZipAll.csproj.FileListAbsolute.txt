@@ -13,3 +13,4 @@ d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\obj\Debug\net5.0\SevenZipAll.dll
 d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\obj\Debug\net5.0\ref\SevenZipAll.dll
 d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\obj\Debug\net5.0\SevenZipAll.pdb
 d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\obj\Debug\net5.0\SevenZipAll.genruntimeconfig.cache
+d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\obj\Debug\net5.0\SevenZipAll.csproj.AssemblyReference.cache
