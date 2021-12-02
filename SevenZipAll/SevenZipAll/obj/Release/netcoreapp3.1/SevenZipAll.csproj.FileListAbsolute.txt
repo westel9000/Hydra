@@ -1,0 +1,14 @@
+d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\bin\Release\netcoreapp3.1\SevenZipAll.exe
+d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\bin\Release\netcoreapp3.1\SevenZipAll.deps.json
+d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\bin\Release\netcoreapp3.1\SevenZipAll.runtimeconfig.json
+d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\bin\Release\netcoreapp3.1\SevenZipAll.runtimeconfig.dev.json
+d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\bin\Release\netcoreapp3.1\SevenZipAll.dll
+d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\bin\Release\netcoreapp3.1\SevenZipAll.pdb
+d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\obj\Release\netcoreapp3.1\SevenZipAll.csproj.AssemblyReference.cache
+d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\obj\Release\netcoreapp3.1\SevenZipAll.GeneratedMSBuildEditorConfig.editorconfig
+d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\obj\Release\netcoreapp3.1\SevenZipAll.AssemblyInfoInputs.cache
+d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\obj\Release\netcoreapp3.1\SevenZipAll.AssemblyInfo.cs
+d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\obj\Release\netcoreapp3.1\SevenZipAll.csproj.CoreCompileInputs.cache
+d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\obj\Release\netcoreapp3.1\SevenZipAll.dll
+d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\obj\Release\netcoreapp3.1\SevenZipAll.pdb
+d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\obj\Release\netcoreapp3.1\SevenZipAll.genruntimeconfig.cache

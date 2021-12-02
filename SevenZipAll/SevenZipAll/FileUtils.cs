@@ -41,7 +41,8 @@ namespace SevenZipAll
             // and then target file in quotes followed by source file in quotes
             //
             //p.Arguments = "a -t7z \"" + targetName + "\" \"" + sourceName + "\" -mx=1";
-            p.Arguments = "a -t7z \"" + outSevenZipTargetName + "\" \"" + sourceDirName + "\" -mx=1";
+            string argumentumok = " a -t7z \"" + outSevenZipTargetName + ".7z\" \"" + sourceDirName + "\" -mx=1";
+            p.Arguments = argumentumok;
             //p.Arguments = "a -tgzip \"" + targetName + "\" \"" + sourceName + "\" -mx=9";
             //Console.WriteLine("7za a -t7z \"" + outSevenZipTargetName + ".7z\" \"" + sourceDirName + "\" -mx=1");
             p.WindowStyle = ProcessWindowStyle.Hidden;
@@ -52,7 +53,7 @@ namespace SevenZipAll
             Process x = Process.Start(p);
             x.WaitForExit();
 
-            return null;
+            return p.FileName.ToString() + argumentumok;
         }
     }
 }

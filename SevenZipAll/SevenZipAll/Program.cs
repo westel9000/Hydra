@@ -14,7 +14,8 @@ namespace SevenZipAll
 
             foreach (var itemToZip in directoryInfoLista)
             {
-                FileUtils.SevenZipper(sourceDirName: itemToZip, outSevenZipTargetName: itemToZip.Name);
+                var parancssor = FileUtils.SevenZipper(sourceDirName: itemToZip, outSevenZipTargetName: itemToZip.Name);
+                Console.WriteLine(parancssor);
             }
 
 			Console.WriteLine("Finished!");

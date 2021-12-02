@@ -1,0 +1,15 @@
+d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\bin\Release\net5.0\SevenZipAll.exe
+d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\bin\Release\net5.0\SevenZipAll.deps.json
+d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\bin\Release\net5.0\SevenZipAll.runtimeconfig.json
+d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\bin\Release\net5.0\SevenZipAll.runtimeconfig.dev.json
+d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\bin\Release\net5.0\SevenZipAll.dll
+d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\bin\Release\net5.0\ref\SevenZipAll.dll
+d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\bin\Release\net5.0\SevenZipAll.pdb
+d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\obj\Release\net5.0\SevenZipAll.GeneratedMSBuildEditorConfig.editorconfig
+d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\obj\Release\net5.0\SevenZipAll.AssemblyInfoInputs.cache
+d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\obj\Release\net5.0\SevenZipAll.AssemblyInfo.cs
+d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\obj\Release\net5.0\SevenZipAll.csproj.CoreCompileInputs.cache
+d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\obj\Release\net5.0\SevenZipAll.dll
+d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\obj\Release\net5.0\ref\SevenZipAll.dll
+d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\obj\Release\net5.0\SevenZipAll.pdb
+d:\AmazonCD6\Hydra\SevenZipAll\SevenZipAll\obj\Release\net5.0\SevenZipAll.genruntimeconfig.cache

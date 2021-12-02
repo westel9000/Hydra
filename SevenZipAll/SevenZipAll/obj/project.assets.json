@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
+    "net5.0": {
       "7-Zip.CommandLine/18.1.0": {
         "type": "package"
       }
@@ -27,36 +27,40 @@
     }
   },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
+    "net5.0": [
       "7-Zip.CommandLine >= 18.1.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\boguszlavszky.gyorgy\\.nuget\\packages\\": {}
+    "C:\\Users\\angol\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\boguszlavszky.gyorgy\\source\\repos\\Hydra\\SevenZipAll\\SevenZipAll\\SevenZipAll.csproj",
+      "projectUniqueName": "d:\\AmazonCD6\\Hydra\\SevenZipAll\\SevenZipAll\\SevenZipAll.csproj",
       "projectName": "SevenZipAll",
-      "projectPath": "C:\\Users\\boguszlavszky.gyorgy\\source\\repos\\Hydra\\SevenZipAll\\SevenZipAll\\SevenZipAll.csproj",
-      "packagesPath": "C:\\Users\\boguszlavszky.gyorgy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\boguszlavszky.gyorgy\\source\\repos\\Hydra\\SevenZipAll\\SevenZipAll\\obj\\",
+      "projectPath": "d:\\AmazonCD6\\Hydra\\SevenZipAll\\SevenZipAll\\SevenZipAll.csproj",
+      "packagesPath": "C:\\Users\\angol\\.nuget\\packages\\",
+      "outputPath": "d:\\AmazonCD6\\Hydra\\SevenZipAll\\SevenZipAll\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\boguszlavszky.gyorgy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\angol\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.1"
+        "net5.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "projectReferences": {}
         }
       },
@@ -67,8 +71,8 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
+      "net5.0": {
+        "targetAlias": "net5.0",
         "dependencies": {
           "7-Zip.CommandLine": {
             "target": "Package",
