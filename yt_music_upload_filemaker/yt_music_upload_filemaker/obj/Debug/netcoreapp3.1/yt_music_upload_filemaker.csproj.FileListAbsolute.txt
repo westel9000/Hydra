@@ -12,3 +12,17 @@ C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\yt_music_upload_filemaker\yt_mu
 C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\yt_music_upload_filemaker\yt_music_upload_filemaker\obj\Debug\netcoreapp3.1\yt_music_upload_filemaker.dll
 C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\yt_music_upload_filemaker\yt_music_upload_filemaker\obj\Debug\netcoreapp3.1\yt_music_upload_filemaker.pdb
 C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\yt_music_upload_filemaker\yt_music_upload_filemaker\obj\Debug\netcoreapp3.1\yt_music_upload_filemaker.genruntimeconfig.cache
+d:\AmazonCD6\Hydra\yt_music_upload_filemaker\yt_music_upload_filemaker\bin\Debug\netcoreapp3.1\yt_music_upload_filemaker.exe
+d:\AmazonCD6\Hydra\yt_music_upload_filemaker\yt_music_upload_filemaker\bin\Debug\netcoreapp3.1\yt_music_upload_filemaker.deps.json
+d:\AmazonCD6\Hydra\yt_music_upload_filemaker\yt_music_upload_filemaker\bin\Debug\netcoreapp3.1\yt_music_upload_filemaker.runtimeconfig.json
+d:\AmazonCD6\Hydra\yt_music_upload_filemaker\yt_music_upload_filemaker\bin\Debug\netcoreapp3.1\yt_music_upload_filemaker.runtimeconfig.dev.json
+d:\AmazonCD6\Hydra\yt_music_upload_filemaker\yt_music_upload_filemaker\bin\Debug\netcoreapp3.1\yt_music_upload_filemaker.dll
+d:\AmazonCD6\Hydra\yt_music_upload_filemaker\yt_music_upload_filemaker\bin\Debug\netcoreapp3.1\yt_music_upload_filemaker.pdb
+d:\AmazonCD6\Hydra\yt_music_upload_filemaker\yt_music_upload_filemaker\obj\Debug\netcoreapp3.1\yt_music_upload_filemaker.csproj.AssemblyReference.cache
+d:\AmazonCD6\Hydra\yt_music_upload_filemaker\yt_music_upload_filemaker\obj\Debug\netcoreapp3.1\yt_music_upload_filemaker.GeneratedMSBuildEditorConfig.editorconfig
+d:\AmazonCD6\Hydra\yt_music_upload_filemaker\yt_music_upload_filemaker\obj\Debug\netcoreapp3.1\yt_music_upload_filemaker.AssemblyInfoInputs.cache
+d:\AmazonCD6\Hydra\yt_music_upload_filemaker\yt_music_upload_filemaker\obj\Debug\netcoreapp3.1\yt_music_upload_filemaker.AssemblyInfo.cs
+d:\AmazonCD6\Hydra\yt_music_upload_filemaker\yt_music_upload_filemaker\obj\Debug\netcoreapp3.1\yt_music_upload_filemaker.csproj.CoreCompileInputs.cache
+d:\AmazonCD6\Hydra\yt_music_upload_filemaker\yt_music_upload_filemaker\obj\Debug\netcoreapp3.1\yt_music_upload_filemaker.dll
+d:\AmazonCD6\Hydra\yt_music_upload_filemaker\yt_music_upload_filemaker\obj\Debug\netcoreapp3.1\yt_music_upload_filemaker.pdb
+d:\AmazonCD6\Hydra\yt_music_upload_filemaker\yt_music_upload_filemaker\obj\Debug\netcoreapp3.1\yt_music_upload_filemaker.genruntimeconfig.cache
