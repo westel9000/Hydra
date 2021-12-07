@@ -1,0 +1,14 @@
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\yt_music_upload_filemaker\yt_music_upload_filemaker\bin\Debug\netcoreapp3.1\yt_music_upload_filemaker.exe
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\yt_music_upload_filemaker\yt_music_upload_filemaker\bin\Debug\netcoreapp3.1\yt_music_upload_filemaker.deps.json
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\yt_music_upload_filemaker\yt_music_upload_filemaker\bin\Debug\netcoreapp3.1\yt_music_upload_filemaker.runtimeconfig.json
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\yt_music_upload_filemaker\yt_music_upload_filemaker\bin\Debug\netcoreapp3.1\yt_music_upload_filemaker.runtimeconfig.dev.json
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\yt_music_upload_filemaker\yt_music_upload_filemaker\bin\Debug\netcoreapp3.1\yt_music_upload_filemaker.dll
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\yt_music_upload_filemaker\yt_music_upload_filemaker\bin\Debug\netcoreapp3.1\yt_music_upload_filemaker.pdb
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\yt_music_upload_filemaker\yt_music_upload_filemaker\obj\Debug\netcoreapp3.1\yt_music_upload_filemaker.csproj.AssemblyReference.cache
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\yt_music_upload_filemaker\yt_music_upload_filemaker\obj\Debug\netcoreapp3.1\yt_music_upload_filemaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\yt_music_upload_filemaker\yt_music_upload_filemaker\obj\Debug\netcoreapp3.1\yt_music_upload_filemaker.AssemblyInfoInputs.cache
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\yt_music_upload_filemaker\yt_music_upload_filemaker\obj\Debug\netcoreapp3.1\yt_music_upload_filemaker.AssemblyInfo.cs
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\yt_music_upload_filemaker\yt_music_upload_filemaker\obj\Debug\netcoreapp3.1\yt_music_upload_filemaker.csproj.CoreCompileInputs.cache
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\yt_music_upload_filemaker\yt_music_upload_filemaker\obj\Debug\netcoreapp3.1\yt_music_upload_filemaker.dll
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\yt_music_upload_filemaker\yt_music_upload_filemaker\obj\Debug\netcoreapp3.1\yt_music_upload_filemaker.pdb
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\yt_music_upload_filemaker\yt_music_upload_filemaker\obj\Debug\netcoreapp3.1\yt_music_upload_filemaker.genruntimeconfig.cache

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Connection xmlns="http://effector.hu/schema/ns/dbconnection">
+	<Caption>Database connection</Caption> <!--This is the caption that appears in the connection selector in the login screen-->
+	<IsEncrypted>false</IsEncrypted> <!---->
+	<Server>192.168.196.16,1433</Server><!--This is the IP address or domain name the SQL server -->
+	<Database>UjVilag_teszt</Database><!--This is the name of the database-->
+	<User_ID>EffectorUser</User_ID><!--This is the login name for the database user-->
+	<Password>oriana</Password><!--Password, used if Trusted_Connection is false. -->
+	<Persist_Security_Info>false</Persist_Security_Info>
+	<Integrated_Security>SSPI</Integrated_Security>
+	<Trusted_Connection>false</Trusted_Connection><!--If false then SQl login, if true then Windows authentication-->
+
+	<!--If you want to connect to SQL Server (SQL Server 2016 and newer versions) securely then set this true-->
+	<Encrypt>false</Encrypt>
+	<!--When you connect to SQL Server securely and the server certificate is self-signed then set this true-->
+	<TrustServerCertificate>false</TrustServerCertificate>
+
+	<ResourcePath>c:\XML\XML_Ujvilag\</ResourcePath><!--The absolute path to Effector XML files root-->
+	<Profile>ProfileDefault</Profile><!--Name of profile XML-->
+	<Languages><!--List of languages-->
+		<Language code="hu-HU">magyar</Language><!--Caption of language in language selector on the login screen-->
+		<!-- <Language code="en-US">English</Language> -->
+	</Languages>
+</Connection>

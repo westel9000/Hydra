@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Connections xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Connections.xsd">
+	<!--You list the connections files here-->
+	<ConnectionFile>ConnectionDB.xml</ConnectionFile>
+	<!--<ConnectionFile>ConnectionDB2.xml</ConnectionFile>-->
+</Connections>

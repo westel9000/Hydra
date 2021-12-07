@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "yt_music_upload_filemaker/1.0.0": {
+        "runtime": {
+          "yt_music_upload_filemaker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "yt_music_upload_filemaker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
