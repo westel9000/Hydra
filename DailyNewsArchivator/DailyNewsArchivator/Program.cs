@@ -12,7 +12,7 @@ namespace DailyNewsArchivator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Environment.NewLine + "DailyNewsArchivator v2.3" + Environment.NewLine);
+            Console.WriteLine(Environment.NewLine + "DailyNewsArchivator v3.0" + Environment.NewLine);
 
             TimeStamp TheTimeStamp = TimeStamp.Instance;
             DateTime mainTimeTrackerStart = DateTime.Now; // Fő stopper indítása.
@@ -43,7 +43,11 @@ namespace DailyNewsArchivator
             }
 
             DateTime mainTimeTrackerStop = DateTime.Now; // Fő stopper leállítása.
-            Console.WriteLine($"Teljes futásidő: {mainTimeTrackerStop - mainTimeTrackerStart}");
+            List<string> teljesIdo = new List<string>();
+            teljesIdo.Add($"Teljes futásidő: {mainTimeTrackerStop - mainTimeTrackerStart}");
+            Console.WriteLine(teljesIdo.FirstOrDefault());
+            teljesIdo.Add("End of Transmission!");
+            System.IO.File.AppendAllLines($"mandiner.hu-log-{TimeStamp.Instance.TheTimeStamp}.txt", teljesIdo);
 
             Console.WriteLine("End of Transmission!");
         }

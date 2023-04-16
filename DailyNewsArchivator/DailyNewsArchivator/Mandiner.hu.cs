@@ -5,6 +5,9 @@ using System.Net;
 using System.Linq;
 using System.Text.RegularExpressions;
 using System.Text;
+using Windows.Web.Http; // windows only
+using System.Threading.Tasks;
+//using System.Net.Http;
 
 namespace DailyNewsArchivator
 {
@@ -166,9 +169,13 @@ namespace DailyNewsArchivator
 
             ListArchivator(outputText2Log, valogatottKulsosCimek.ToList(), hibasUrlArchivalasok);
 
-            if (hibasUrlArchivalasok != null)
+            if (hibasUrlArchivalasok != null && hibasUrlArchivalasok.Count > 0)
             {
+                Console.WriteLine("======retry=====");
+                outputText2Log.Add("======retry=====");
                 ListArchivator(outputText2Log, hibasUrlArchivalasok);
+                Console.WriteLine("==mandiner end==");
+                outputText2Log.Add("==mandiner end==");
             }
 
             DateTime mainTimeTrackerStop = DateTime.Now; // Fő stopper leállítása.
@@ -186,6 +193,9 @@ namespace DailyNewsArchivator
             sorszam = 0;
             foreach (var item in urlList)
             {
+                Activate(sorszam, outputText2Log, item, hibasUrlArchivalasok);
+                new System.Threading.ManualResetEvent(false).WaitOne(50000);
+                /*
                 try
                 {
                     WebClient client = new WebClient();
@@ -213,8 +223,14 @@ namespace DailyNewsArchivator
                     if (hibasUrlArchivalasok != null) hibasUrlArchivalasok.Add(item);
                     new System.Threading.ManualResetEvent(false).WaitOne(35000);
                 }
+                */
+
                 sorszam++;
             }
+        }
+        internal async void Activate(int sorszam, List<string> outputText2Log, string urlItem, List<string> hibasUrlArchivalasok = null)
+        {
+            await Task.Run(() => WebAchivator.OneArchivateAsync(sorszam, outputText2Log, urlItem, hibasUrlArchivalasok));
         }
     }
 }

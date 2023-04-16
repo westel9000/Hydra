@@ -175,9 +175,13 @@ namespace DailyNewsArchivator
                 mandinerSeged.ListArchivator(outputText2Log, valogatottCimkekMoszkvater.ToList(), hibasUrlArchivalasok);
             }
 
-            if (hibasUrlArchivalasok != null)
+            if (hibasUrlArchivalasok != null && hibasUrlArchivalasok.Count > 0)
             {
+                Console.WriteLine("======retry=======");
+                outputText2Log.Add("======retry=======");
                 mandinerSeged.ListArchivator(outputText2Log, hibasUrlArchivalasok);
+                Console.WriteLine("==moszkvater end==");
+                outputText2Log.Add("==moszkvater end==");
             }
 
             DateTime mainTimeTrackerStop = DateTime.Now; // Fő stopper leállítása.
