@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Text;
 using System.Text.RegularExpressions;
 
 namespace yt_music_upload_filemaker
@@ -16,7 +17,8 @@ namespace yt_music_upload_filemaker
              * vagy inkább egy rövid subtitle fájl generálásával. Például ki lehet írni a videofájl nevét. 
              */
 
-            string VidLibraryToPrecess = @"G:\mos\The.Rain.S01.1080p.NF.WEB-DL.DD5.1.x264-SCIFI";
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
+            string VidLibraryToPrecess = @"G:\Virtual Machines\Ubuntu Destop\Gshared\COL\GG music\Cyberpunkmusic";
             //string OutputVideoPattern1 = "The Rain 2018";
             //string OutputVideoPattern2 = "A gyilkos eső";
 
@@ -45,11 +47,14 @@ namespace yt_music_upload_filemaker
 
             List<FileInfo> anyAudio = new List<FileInfo>();
 
-            if (mkaMusics != null)
+            int countmka = mkaMusics.Count();
+            int countwebm = webmMusics.Count();
+
+            if (mkaMusics.Count() > 0)
             {
                 anyAudio = mkaMusics.ToList();
             }
-            else if (webmMusics != null)
+            else if (webmMusics.Count() > 0)
             {
                 anyAudio = webmMusics.ToList();
             }
@@ -59,7 +64,7 @@ namespace yt_music_upload_filemaker
                 Console.WriteLine($"Audio: {audioItem.FullName}");
                 YtAudioElement ytAudioElement = new YtAudioElement();
                 ytAudioElement.audioFile = audioItem;
-                ytAudioElement.audioCoverPic = webpCovers.Where(w => Path.GetFileNameWithoutExtension(w.Name) == audioItem.FullName).FirstOrDefault();
+                ytAudioElement.audioCoverPic = webpCovers.Where(w => Path.GetFileNameWithoutExtension(w.Name) == Path.GetFileNameWithoutExtension(audioItem.FullName) ).FirstOrDefault();
                 if (ytAudioElement.audioCoverPic == null)
                 {
                     ytAudioElement.audioCoverPic = jpgCovers.Where(w => Path.GetFileNameWithoutExtension(w.Name) == audioItem.FullName).FirstOrDefault();
@@ -73,14 +78,32 @@ namespace yt_music_upload_filemaker
 
             Console.ReadKey();
 
+            List<string> writeToFile = new List<string>();
             foreach (var audioNcoverpicItem in ytAudioElements)
             {
                 //Console.WriteLine($"mkvmerge --output '{OutputVideoPattern1} S{vidNsubItem.season}E{vidNsubItem.episode} {OutputVideoPattern2}.mkv' --language 0:hun --language 1:hun '(' '{vidNsubItem.videoFile.Name}' ')' --language 0:hun --default-track 0:yes --forced-track 0:yes '(' '{vidNsubItem.subtitleFile.Name}' ')' --track-order 0:0,0:1,1:0"); // Hősök                                                                                                                                                                                                                                                                                                                                                                
                 //Console.WriteLine($"mkvmerge --output '{OutputVideoPattern1} S{vidNsubItem.season}E{vidNsubItem.episode} {OutputVideoPattern2}.mkv' --language 0:und --language 1:hun '(' '{vidNsubItem.videoFile.Name}' ')' --language 0:hun --default-track 0:no --language 1:hun --track-name 1:forced --default-track 1:yes --forced-track 1:yes '(' '{vidNsubItem.subtitleFile.Name}' ')' --track-order 0:0,0:1,1:0,1:1");                                   
 
-                Console.WriteLine($"mkvmerge --output '{audioNcoverpicItem.audioFile.Name}.mkv' --attach-file file-name '{audioNcoverpicItem.audioFile.Name}' --attachment-name name 'cover.jpg' "); 
+                byte[] bytes = Encoding.Default.GetBytes(audioNcoverpicItem.audioFile.Name);
+                string audioFileNameUft8 = Encoding.UTF8.GetString(bytes);
+
+                bytes = Encoding.Default.GetBytes(audioNcoverpicItem.audioCoverPic.Name);
+                string coverPicUtf8 = Encoding.UTF8.GetString(bytes);
+
+                Console.WriteLine("rm cover.jpg");
+                writeToFile.Add("rm cover.jpg");
+                Console.WriteLine("sleep 1");
+                writeToFile.Add("sleep 10");
+                Console.WriteLine($"convert \"{coverPicUtf8}\" cover.jpg");
+                writeToFile.Add($"convert \"{coverPicUtf8}\" cover.jpg");
+                Console.WriteLine("sleep 1");
+                writeToFile.Add("sleep 10");
+
+                Console.WriteLine($"mkvmerge --output \"{audioFileNameUft8}.mka\" \"{audioFileNameUft8}\" --attach-file \"cover.jpg\" "); 
+                writeToFile.Add($"mkvmerge --output \"{audioFileNameUft8}.mka\" \"{audioFileNameUft8}\" --attach-file \"cover.jpg\" ");
             }
 
+            File.WriteAllLines("outexecit.txt", writeToFile);
             Console.WriteLine("done!");
             Console.ReadKey();
         }

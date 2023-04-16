@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\boguszlavszky.gyorgy\\source\\repos\\Hydra\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix.csproj": {}
+    "d:\\AmazonCD6\\Hydra\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix.csproj": {}
   },
   "projects": {
-    "C:\\Users\\boguszlavszky.gyorgy\\source\\repos\\Hydra\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix.csproj": {
+    "d:\\AmazonCD6\\Hydra\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\boguszlavszky.gyorgy\\source\\repos\\Hydra\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix.csproj",
+        "projectUniqueName": "d:\\AmazonCD6\\Hydra\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix.csproj",
         "projectName": "MassFileProcessByMKVToolNix",
-        "projectPath": "C:\\Users\\boguszlavszky.gyorgy\\source\\repos\\Hydra\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix.csproj",
-        "packagesPath": "C:\\Users\\boguszlavszky.gyorgy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\boguszlavszky.gyorgy\\source\\repos\\Hydra\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix\\obj\\",
+        "projectPath": "d:\\AmazonCD6\\Hydra\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix.csproj",
+        "packagesPath": "C:\\Users\\angol\\.nuget\\packages\\",
+        "outputPath": "d:\\AmazonCD6\\Hydra\\MassFileProcessByMKVToolNix\\MassFileProcessByMKVToolNix\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\boguszlavszky.gyorgy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\angol\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

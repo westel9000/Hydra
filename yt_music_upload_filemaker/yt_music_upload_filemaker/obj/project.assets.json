@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\boguszlavszky.gyorgy\\.nuget\\packages\\": {}
+    "C:\\Users\\angol\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\boguszlavszky.gyorgy\\source\\repos\\Hydra\\yt_music_upload_filemaker\\yt_music_upload_filemaker\\yt_music_upload_filemaker.csproj",
+      "projectUniqueName": "d:\\AmazonCD6\\Hydra\\yt_music_upload_filemaker\\yt_music_upload_filemaker\\yt_music_upload_filemaker.csproj",
       "projectName": "yt_music_upload_filemaker",
-      "projectPath": "C:\\Users\\boguszlavszky.gyorgy\\source\\repos\\Hydra\\yt_music_upload_filemaker\\yt_music_upload_filemaker\\yt_music_upload_filemaker.csproj",
-      "packagesPath": "C:\\Users\\boguszlavszky.gyorgy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\boguszlavszky.gyorgy\\source\\repos\\Hydra\\yt_music_upload_filemaker\\yt_music_upload_filemaker\\obj\\",
+      "projectPath": "d:\\AmazonCD6\\Hydra\\yt_music_upload_filemaker\\yt_music_upload_filemaker\\yt_music_upload_filemaker.csproj",
+      "packagesPath": "C:\\Users\\angol\\.nuget\\packages\\",
+      "outputPath": "d:\\AmazonCD6\\Hydra\\yt_music_upload_filemaker\\yt_music_upload_filemaker\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\boguszlavszky.gyorgy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\angol\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
