@@ -1,0 +1,131 @@
+=========================BEGIN==========================
+0. Archiválva 230409.0057: http://web.archive.org/save/https://moszkvater.com/
+1 Hiba itt 230409.0058: //moszkvater.com/wp-content/cache/wpfc-minified/q50t6f05/1xn4c.css
+2. Archiválva 230409.0059: http://web.archive.org/save/https://moszkvater.com/hideghaboru/
+3. Archiválva 230409.0100: http://web.archive.org/save/https://moszkvater.com/politika/
+4 Hiba itt 230409.0102: https://moszkvater.com/politika/kazahsztan_2022/
+5. Archiválva 230409.0104: http://web.archive.org/save/https://moszkvater.com/politika/v4_visegradi_negyek/
+6. Archiválva 230409.0106: http://web.archive.org/save/https://moszkvater.com/tarsadalom/
+7. Archiválva 230409.0107: http://web.archive.org/save/https://moszkvater.com/politika/ukrajna_2019/
+8. Archiválva 230409.0108: http://web.archive.org/save/https://moszkvater.com/valdaj-2018/
+9. Archiválva 230409.0109: http://web.archive.org/save/https://moszkvater.com/vilag_2018/
+10. Archiválva 230409.0110: http://web.archive.org/save/https://moszkvater.com/moszkvaterxultrahang/
+11. Archiválva 230409.0112: http://web.archive.org/save/https://moszkvater.com/gazdasag/
+12. Archiválva 230409.0113: http://web.archive.org/save/https://moszkvater.com/gazdasag/padlogaz/
+13. Archiválva 230409.0114: http://web.archive.org/save/https://moszkvater.com/publicisztika/
+14. Archiválva 230409.0116: http://web.archive.org/save/https://moszkvater.com/publicisztika/margon_kivul/
+15. Archiválva 230409.0117: http://web.archive.org/save/https://moszkvater.com/kultura/
+16 Hiba itt 230409.0118: https://moszkvater.com/kultura/margo/
+17. Archiválva 230409.0119: http://web.archive.org/save/https://moszkvater.com/gasztronomia/
+18. Archiválva 230409.0120: http://web.archive.org/save/https://moszkvater.com/tortenelem/
+19. Archiválva 230409.0213: http://web.archive.org/save/https://moszkvater.com/tortenelem/nagy_honvedo_haboru/
+20. Archiválva 230409.0215: http://web.archive.org/save/https://moszkvater.com/tortenelem/rendszervaltas-30/
+21. Archiválva 230409.0217: http://web.archive.org/save/https://moszkvater.com/tortenelem/praga_1968/
+22. Archiválva 230409.0218: http://web.archive.org/save/https://moszkvater.com/a_fuggetlenseg_100_eve/
+23. Archiválva 230409.0220: http://web.archive.org/save/https://moszkvater.com/tortenelem/volt_egyszer_egy_haboru/
+24 Hiba itt 230409.1100: https://moszkvater.com/sport/
+25. Archiválva 230409.1101: http://web.archive.org/save/https://moszkvater.com/utazas/
+26 Hiba itt 230409.1104: https://moszkvater.com/elfordultak-a-magyaroktol-a-lengyelek/
+27 Hiba itt 230409.1106: https://moszkvater.com/fokuszban/
+28 Hiba itt 230409.1108: https://moszkvater.com/ukrajna-puha-annektalasa/
+29 Hiba itt 230409.1110: https://moszkvater.com/nem-tetlen-az-orosz-legiero/
+30. Archiválva 230409.1112: http://web.archive.org/save/https://moszkvater.com/a-gruz-remalom-es-a-szabadsag-napja/
+31. Archiválva 230409.1115: http://web.archive.org/save/https://moszkvater.com/a-szovjetunio-osszeomlasatol-a-nemet-egyesitesig/
+32 Hiba itt 230409.1117: https://moszkvater.com/ortodox-nagybojt/
+33 Hiba itt 230409.1120: https://moszkvater.com/amit-a-media-kode-eltakar/
+34 Hiba itt 230409.1122: https://moszkvater.com/moszkvaterxultrahang/moszkvaterplusz/
+35 Hiba itt 230409.1124: https://moszkvater.com/feltuntek-az-orosz-szarnyas-bombak/
+36 Hiba itt 230409.1126: https://moszkvater.com/europa-csak-ukrajnara-fokuszal/
+37 Hiba itt 230409.1129: https://moszkvater.com/amerika-vazallusa/
+38 Hiba itt 230409.1131: https://moszkvater.com/otven-eves-az-elso-eastern/
+39 Hiba itt 230409.1133: https://moszkvater.com/szokolov-es-budapest/
+40 Hiba itt 230409.1135: https://moszkvater.com/a-zaporozsjei-kozakok-es-a-haboru-mediaja/
+41 Hiba itt 230409.1138: https://moszkvater.com/ukran-vagyalmok-europai-remalmok/
+42 Hiba itt 230409.1140: https://moszkvater.com/moszkva-lezarna-a-nyugat-dominanciajat/
+43 Hiba itt 230409.1142: https://moszkvater.com/kitartanak-a-kijevi-lavra-szerzetesei/
+44. Archiválva 230409.1144: http://web.archive.org/save/https://moszkvater.com/attunesek-es-eltunesek/
+45 Hiba itt 230409.1146: https://moszkvater.com/boralafutas/
+46. Archiválva 230409.1147: http://web.archive.org/save/https://moszkvater.com/a-csapatok-szelleme/
+47. Archiválva 230409.1149: http://web.archive.org/save/https://moszkvater.com/covid_19/
+48. Archiválva 230409.1150: http://web.archive.org/save/https://moszkvater.com/egyeb/
+49 Hiba itt 230409.1153: https://moszkvater.com/nagykep/
+50 Hiba itt 230409.1155: https://moszkvater.com/podcast/
+51. Archiválva 230409.1156: http://web.archive.org/save/https://moszkvater.com/sport/russia-2018/
+52. Archiválva 230409.1158: http://web.archive.org/save/https://moszkvater.com/szerkeszto-ajanlata/
+53. Archiválva 230409.1200: http://web.archive.org/save/https://moszkvater.com/x-demokrata/
+54. Archiválva 230409.1202: http://web.archive.org/save/https://moszkvater.com/rolunk/
+0 Hiba itt 230409.1204: https://moszkvater.com/cimke/gazdasag/
+1. Archiválva 230409.1206: http://web.archive.org/save/https://moszkvater.com/cimke/balkan/
+2. Archiválva 230409.1208: http://web.archive.org/save/https://moszkvater.com/cimke/belarusz/
+3. Archiválva 230409.1209: http://web.archive.org/save/https://moszkvater.com/cimke/bulgaria/
+4. Archiválva 230409.1211: http://web.archive.org/save/https://moszkvater.com/cimke/covid-19/
+5. Archiválva 230409.1212: http://web.archive.org/save/https://moszkvater.com/cimke/csehorszag/
+6. Archiválva 230409.1214: http://web.archive.org/save/https://moszkvater.com/cimke/donbassz/
+7. Archiválva 230409.1215: http://web.archive.org/save/https://moszkvater.com/cimke/egyesult-allamok/
+8. Archiválva 230409.1216: http://web.archive.org/save/https://moszkvater.com/cimke/eu/
+9. Archiválva 230409.1218: http://web.archive.org/save/https://moszkvater.com/cimke/horvatorszag/
+10. Archiválva 230409.1219: http://web.archive.org/save/https://moszkvater.com/cimke/haboru/
+11. Archiválva 230409.1220: http://web.archive.org/save/https://moszkvater.com/cimke/ii-vilaghaboru/
+12. Archiválva 230409.1221: http://web.archive.org/save/https://moszkvater.com/cimke/irodalom/
+13. Archiválva 230409.1223: http://web.archive.org/save/https://moszkvater.com/cimke/joe-biden/
+14. Archiválva 230409.1224: http://web.archive.org/save/https://moszkvater.com/cimke/jugoszlavia/
+15. Archiválva 230409.1226: http://web.archive.org/save/https://moszkvater.com/cimke/kazahsztan/
+16. Archiválva 230409.1227: http://web.archive.org/save/https://moszkvater.com/cimke/koronavirus/
+17. Archiválva 230409.1228: http://web.archive.org/save/https://moszkvater.com/cimke/koszovo/
+18. Archiválva 230409.1230: http://web.archive.org/save/https://moszkvater.com/cimke/karpatalja/
+19. Archiválva 230409.1231: http://web.archive.org/save/https://moszkvater.com/cimke/kina/
+20. Archiválva 230409.1233: http://web.archive.org/save/https://moszkvater.com/cimke/labdarugas/
+21 Hiba itt 230409.1235: https://moszkvater.com/cimke/lengyelorszag/
+22. Archiválva 230409.1237: http://web.archive.org/save/https://moszkvater.com/cimke/magyarorszag/
+23. Archiválva 230409.1238: http://web.archive.org/save/https://moszkvater.com/cimke/nagy-honvedo-haboru/
+24 Hiba itt 230409.1239: https://moszkvater.com/cimke/nato/
+25. Archiválva 230409.1240: http://web.archive.org/save/https://moszkvater.com/cimke/nemetorszag/
+26. Archiválva 230409.1242: http://web.archive.org/save/https://moszkvater.com/cimke/orban-viktor/
+27. Archiválva 230409.1243: http://web.archive.org/save/https://moszkvater.com/cimke/orosz-ukran-haboru/
+28. Archiválva 230409.1245: http://web.archive.org/save/https://moszkvater.com/cimke/orosz-ukran-konfliktus/
+29 Hiba itt 230409.1246: https://moszkvater.com/cimke/oroszorszag/
+30. Archiválva 230409.1248: http://web.archive.org/save/https://moszkvater.com/cimke/putyin/
+31. Archiválva 230409.1250: http://web.archive.org/save/https://moszkvater.com/cimke/rybar/
+32. Archiválva 230409.1251: http://web.archive.org/save/https://moszkvater.com/cimke/stier-gabor/
+33 Hiba itt 230409.1254: https://moszkvater.com/cimke/szerbia/
+34. Archiválva 230409.1255: http://web.archive.org/save/https://moszkvater.com/cimke/szovjetunio/
+35. Archiválva 230409.1256: http://web.archive.org/save/https://moszkvater.com/cimke/sztalin/
+36. Archiválva 230409.1258: http://web.archive.org/save/https://moszkvater.com/cimke/trump/
+37. Archiválva 230409.1300: http://web.archive.org/save/https://moszkvater.com/cimke/torokorszag/
+38 Hiba itt 230409.1302: https://moszkvater.com/cimke/ukrajna/
+39. Archiválva 230409.1304: http://web.archive.org/save/https://moszkvater.com/cimke/ultrahang/
+40. Archiválva 230409.1305: http://web.archive.org/save/https://moszkvater.com/cimke/usa/
+41. Archiválva 230409.1307: http://web.archive.org/save/https://moszkvater.com/cimke/volodimir-zelenszkij/
+42. Archiválva 230409.1308: http://web.archive.org/save/https://moszkvater.com/cimke/valasztas/
+43. Archiválva 230409.1309: http://web.archive.org/save/https://moszkvater.com/cimke/zelenszkij/
+44. Archiválva 230409.1310: http://web.archive.org/save/https://moszkvater.com/cimke/iroszovetseg/
+0 Hiba itt 230409.1311: //moszkvater.com/wp-content/cache/wpfc-minified/q50t6f05/1xn4c.css
+1. Archiválva 230409.1312: http://web.archive.org/save/https://moszkvater.com/politika/kazahsztan_2022/
+2. Archiválva 230409.1314: http://web.archive.org/save/https://moszkvater.com/kultura/margo/
+3. Archiválva 230409.1315: http://web.archive.org/save/https://moszkvater.com/sport/
+4. Archiválva 230409.1317: http://web.archive.org/save/https://moszkvater.com/elfordultak-a-magyaroktol-a-lengyelek/
+5. Archiválva 230409.1318: http://web.archive.org/save/https://moszkvater.com/fokuszban/
+6. Archiválva 230409.1319: http://web.archive.org/save/https://moszkvater.com/ukrajna-puha-annektalasa/
+7. Archiválva 230409.1321: http://web.archive.org/save/https://moszkvater.com/nem-tetlen-az-orosz-legiero/
+8. Archiválva 230409.1322: http://web.archive.org/save/https://moszkvater.com/ortodox-nagybojt/
+9. Archiválva 230409.1324: http://web.archive.org/save/https://moszkvater.com/amit-a-media-kode-eltakar/
+10. Archiválva 230409.1325: http://web.archive.org/save/https://moszkvater.com/moszkvaterxultrahang/moszkvaterplusz/
+11. Archiválva 230409.1326: http://web.archive.org/save/https://moszkvater.com/feltuntek-az-orosz-szarnyas-bombak/
+12. Archiválva 230409.1328: http://web.archive.org/save/https://moszkvater.com/europa-csak-ukrajnara-fokuszal/
+13. Archiválva 230409.1329: http://web.archive.org/save/https://moszkvater.com/amerika-vazallusa/
+14. Archiválva 230409.1330: http://web.archive.org/save/https://moszkvater.com/otven-eves-az-elso-eastern/
+15. Archiválva 230409.1330: http://web.archive.org/save/https://moszkvater.com/szokolov-es-budapest/
+16. Archiválva 230409.1331: http://web.archive.org/save/https://moszkvater.com/a-zaporozsjei-kozakok-es-a-haboru-mediaja/
+17. Archiválva 230409.1332: http://web.archive.org/save/https://moszkvater.com/ukran-vagyalmok-europai-remalmok/
+18. Archiválva 230409.1333: http://web.archive.org/save/https://moszkvater.com/moszkva-lezarna-a-nyugat-dominanciajat/
+19. Archiválva 230409.1334: http://web.archive.org/save/https://moszkvater.com/kitartanak-a-kijevi-lavra-szerzetesei/
+20. Archiválva 230409.1335: http://web.archive.org/save/https://moszkvater.com/boralafutas/
+21. Archiválva 230409.1336: http://web.archive.org/save/https://moszkvater.com/nagykep/
+22. Archiválva 230409.1337: http://web.archive.org/save/https://moszkvater.com/podcast/
+23. Archiválva 230409.1338: http://web.archive.org/save/https://moszkvater.com/cimke/gazdasag/
+24 Hiba itt 230409.1339: https://moszkvater.com/cimke/lengyelorszag/
+25 Hiba itt 230409.1340: https://moszkvater.com/cimke/nato/
+26. Archiválva 230409.1341: http://web.archive.org/save/https://moszkvater.com/cimke/oroszorszag/
+27. Archiválva 230409.1342: http://web.archive.org/save/https://moszkvater.com/cimke/szerbia/
+28. Archiválva 230409.1343: http://web.archive.org/save/https://moszkvater.com/cimke/ukrajna/
+Moszkvater.com futásidő: 12:47:44.9508016

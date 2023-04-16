@@ -1,0 +1,16 @@
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\DailyNewsArchivator\DailyNewsArchivator\bin\Debug\net5.0\DailyNewsArchivator.exe
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\DailyNewsArchivator\DailyNewsArchivator\bin\Debug\net5.0\DailyNewsArchivator.deps.json
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\DailyNewsArchivator\DailyNewsArchivator\bin\Debug\net5.0\DailyNewsArchivator.runtimeconfig.json
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\DailyNewsArchivator\DailyNewsArchivator\bin\Debug\net5.0\DailyNewsArchivator.runtimeconfig.dev.json
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\DailyNewsArchivator\DailyNewsArchivator\bin\Debug\net5.0\DailyNewsArchivator.dll
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\DailyNewsArchivator\DailyNewsArchivator\bin\Debug\net5.0\ref\DailyNewsArchivator.dll
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\DailyNewsArchivator\DailyNewsArchivator\bin\Debug\net5.0\DailyNewsArchivator.pdb
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\DailyNewsArchivator\DailyNewsArchivator\obj\Debug\net5.0\DailyNewsArchivator.csproj.AssemblyReference.cache
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\DailyNewsArchivator\DailyNewsArchivator\obj\Debug\net5.0\DailyNewsArchivator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\DailyNewsArchivator\DailyNewsArchivator\obj\Debug\net5.0\DailyNewsArchivator.AssemblyInfoInputs.cache
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\DailyNewsArchivator\DailyNewsArchivator\obj\Debug\net5.0\DailyNewsArchivator.AssemblyInfo.cs
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\DailyNewsArchivator\DailyNewsArchivator\obj\Debug\net5.0\DailyNewsArchivator.csproj.CoreCompileInputs.cache
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\DailyNewsArchivator\DailyNewsArchivator\obj\Debug\net5.0\DailyNewsArchivator.dll
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\DailyNewsArchivator\DailyNewsArchivator\obj\Debug\net5.0\ref\DailyNewsArchivator.dll
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\DailyNewsArchivator\DailyNewsArchivator\obj\Debug\net5.0\DailyNewsArchivator.pdb
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\DailyNewsArchivator\DailyNewsArchivator\obj\Debug\net5.0\DailyNewsArchivator.genruntimeconfig.cache

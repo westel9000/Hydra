@@ -1,0 +1,8 @@
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\Threading-Sleep-replacement\Threading-Sleep-replacement\bin\Debug\Threading-Sleep-replacement.exe.config
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\Threading-Sleep-replacement\Threading-Sleep-replacement\bin\Debug\Threading-Sleep-replacement.exe
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\Threading-Sleep-replacement\Threading-Sleep-replacement\bin\Debug\Threading-Sleep-replacement.pdb
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\Threading-Sleep-replacement\Threading-Sleep-replacement\obj\Debug\Threading-Sleep-replacement.csproj.AssemblyReference.cache
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\Threading-Sleep-replacement\Threading-Sleep-replacement\obj\Debug\Threading-Sleep-replacement.csproj.SuggestedBindingRedirects.cache
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\Threading-Sleep-replacement\Threading-Sleep-replacement\obj\Debug\Threading-Sleep-replacement.csproj.CoreCompileInputs.cache
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\Threading-Sleep-replacement\Threading-Sleep-replacement\obj\Debug\Threading-Sleep-replacement.exe
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\Threading-Sleep-replacement\Threading-Sleep-replacement\obj\Debug\Threading-Sleep-replacement.pdb

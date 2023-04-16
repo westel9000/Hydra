@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\NTop-master\CMakeFiles\f7082cb041b83c3edaef6a619d5be517\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8428CB14-65FB-3B95-B34F-197D4E56F432}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

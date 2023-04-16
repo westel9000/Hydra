@@ -1,0 +1,8 @@
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\DailyNewsArchivatorFramework\DailyNewsArchivatorFramework\obj\Debug\DailyNewsArchivatorFramework.csproj.AssemblyReference.cache
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\DailyNewsArchivatorFramework\DailyNewsArchivatorFramework\obj\Debug\DailyNewsArchivatorFramework.csproj.SuggestedBindingRedirects.cache
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\DailyNewsArchivatorFramework\DailyNewsArchivatorFramework\obj\Debug\DailyNewsArchivatorFramework.csproj.CoreCompileInputs.cache
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\DailyNewsArchivatorFramework\DailyNewsArchivatorFramework\bin\Debug\DailyNewsArchivatorFramework.exe.config
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\DailyNewsArchivatorFramework\DailyNewsArchivatorFramework\bin\Debug\DailyNewsArchivatorFramework.exe
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\DailyNewsArchivatorFramework\DailyNewsArchivatorFramework\bin\Debug\DailyNewsArchivatorFramework.pdb
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\DailyNewsArchivatorFramework\DailyNewsArchivatorFramework\obj\Debug\DailyNewsArchivatorFramework.exe
+C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\DailyNewsArchivatorFramework\DailyNewsArchivatorFramework\obj\Debug\DailyNewsArchivatorFramework.pdb

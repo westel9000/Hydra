@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [EffectorOwner]
+    WITH PASSWORD = N'nmxryKtrpZz$ogsadhgQcizlmsFT7_&#$!~<ywgdoaetDquv', SID = 0xD6BE5FF6885A3042884978163CCBB67B, DEFAULT_DATABASE = [MASTER], CHECK_POLICY = OFF;
+

@@ -1,0 +1,3 @@
+C:/Users/boguszlavszky.gyorgy/source/repos/Hydra/NTop-master/CMakeFiles/NTop.dir
+C:/Users/boguszlavszky.gyorgy/source/repos/Hydra/NTop-master/CMakeFiles/ALL_BUILD.dir
+C:/Users/boguszlavszky.gyorgy/source/repos/Hydra/NTop-master/CMakeFiles/ZERO_CHECK.dir

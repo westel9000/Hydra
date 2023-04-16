@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DailyNewsArchivatorFramework", "DailyNewsArchivatorFramework\DailyNewsArchivatorFramework.csproj", "{0FFE10CA-10AB-4FC7-9DF7-56FFE924F401}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FFE10CA-10AB-4FC7-9DF7-56FFE924F401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FFE10CA-10AB-4FC7-9DF7-56FFE924F401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FFE10CA-10AB-4FC7-9DF7-56FFE924F401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FFE10CA-10AB-4FC7-9DF7-56FFE924F401}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88A148B2-37FF-4C42-9990-693DD51B772A}
+	EndGlobalSection
+EndGlobal

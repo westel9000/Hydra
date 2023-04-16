@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\NTop-master\ntop.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\NTop-master\util.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\NTop-master\vi.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\NTop-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BC7E4DD5-2EF5-35EE-96BF-1CBDDD1BC591}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [BUILTIN\Felhasználók]
+    FROM WINDOWS WITH DEFAULT_LANGUAGE = [us_english];
+

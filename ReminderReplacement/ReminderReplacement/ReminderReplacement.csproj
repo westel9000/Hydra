@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+  </PropertyGroup>
+
+	<PropertyGroup>
+		<TargetPlatformVersion>10.0.10586</TargetPlatformVersion>
+	</PropertyGroup>
+	
+</Project>

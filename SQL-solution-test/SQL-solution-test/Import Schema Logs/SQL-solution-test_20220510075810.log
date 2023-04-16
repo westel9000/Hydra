@@ -1,0 +1,103 @@
+2022. 05. 10. 9:58:10	This log contains information about the import schema operation into project 'SQL-solution-test' on computer 'ORIANA091' by user 'boguszlavszky.gyorgy'.
+2022. 05. 10. 9:58:11	Import of database schema has started.
+2022. 05. 10. 9:58:13	Gathering error messages
+2022. 05. 10. 9:58:13	Gathering cryptographic providers
+2022. 05. 10. 9:58:13	Gathering credentials
+2022. 05. 10. 9:58:13	Gathering logins
+2022. 05. 10. 9:58:13	Gathering server roles
+2022. 05. 10. 9:58:13	Gathering server role memberships
+2022. 05. 10. 9:58:13	Gathering linked servers
+2022. 05. 10. 9:58:13	Gathering linked server logins
+2022. 05. 10. 9:58:13	Gathering routes
+2022. 05. 10. 9:58:13	Gathering ddl triggers
+2022. 05. 10. 9:58:13	Gathering encrypted and clr ddl triggers
+2022. 05. 10. 9:58:13	Gathering event notifications
+2022. 05. 10. 9:58:13	Gathering server audits
+2022. 05. 10. 9:58:13	Gathering server audit specifications
+2022. 05. 10. 9:58:13	Gathering event notifications
+2022. 05. 10. 9:58:17	Gathering database credentials
+2022. 05. 10. 9:58:17	Gathering database options
+2022. 05. 10. 9:58:17	Gathering generic database scoped configuration option
+2022. 05. 10. 9:58:17	Gathering users
+2022. 05. 10. 9:58:17	Gathering roles
+2022. 05. 10. 9:58:17	Gathering application roles
+2022. 05. 10. 9:58:17	Gathering role memberships
+2022. 05. 10. 9:58:17	Gathering filegroups
+2022. 05. 10. 9:58:17	Gathering files
+2022. 05. 10. 9:58:17	Gathering full-text catalogs
+2022. 05. 10. 9:58:17	Gathering assemblies
+2022. 05. 10. 9:58:17	Gathering certificates
+2022. 05. 10. 9:58:17	Gathering asymmetric keys
+2022. 05. 10. 9:58:17	Gathering symmetric keys
+2022. 05. 10. 9:58:17	Gathering encrypted symmetric keys
+2022. 05. 10. 9:58:17	Gathering database encryption keys
+2022. 05. 10. 9:58:17	Gathering schemas
+2022. 05. 10. 9:58:17	Gathering XML schema collections
+2022. 05. 10. 9:58:17	Gathering user-defined data types
+2022. 05. 10. 9:58:17	Gathering user-defined types
+2022. 05. 10. 9:58:17	Gathering table types
+2022. 05. 10. 9:58:17	Gathering unique keys for table types
+2022. 05. 10. 9:58:17	Gathering primary keys for table types
+2022. 05. 10. 9:58:17	Gathering indexes for table types
+2022. 05. 10. 9:58:17	Gathering check constraints for table types
+2022. 05. 10. 9:58:17	Gathering default constraints for table types
+2022. 05. 10. 9:58:17	Gathering partition functions
+2022. 05. 10. 9:58:17	Gathering partition schemes
+2022. 05. 10. 9:58:17	Gathering functions
+2022. 05. 10. 9:58:17	Gathering encrypted functions
+2022. 05. 10. 9:58:17	Gathering aggregates
+2022. 05. 10. 9:58:17	Gathering procedures
+2022. 05. 10. 9:58:17	Gathering encrypted procedures
+2022. 05. 10. 9:58:17	Gathering tables
+2022. 05. 10. 9:58:17	Gathering primary keys
+2022. 05. 10. 9:58:17	Gathering unique constraints
+2022. 05. 10. 9:58:17	Gathering foreign keys
+2022. 05. 10. 9:58:17	Gathering default constraints
+2022. 05. 10. 9:58:17	Gathering check constraints
+2022. 05. 10. 9:58:17	Gathering views
+2022. 05. 10. 9:58:17	Gathering encrypted views
+2022. 05. 10. 9:58:17	Gathering indexes
+2022. 05. 10. 9:58:17	Gathering statistics
+2022. 05. 10. 9:58:17	Gathering full-text index stoplists
+2022. 05. 10. 9:58:17	Gathering search property lists
+2022. 05. 10. 9:58:17	Gathering search properties
+2022. 05. 10. 9:58:18	Gathering full-text indexes
+2022. 05. 10. 9:58:18	Gathering column store indexes
+2022. 05. 10. 9:58:18	Gathering spatial indexes
+2022. 05. 10. 9:58:18	Gathering XML indexes
+2022. 05. 10. 9:58:18	Gathering Selective XML indexes
+2022. 05. 10. 9:58:18	Gathering encrypted triggers
+2022. 05. 10. 9:58:18	Gathering triggers
+2022. 05. 10. 9:58:18	Gathering encrypted and clr ddl triggers
+2022. 05. 10. 9:58:18	Gathering ddl triggers
+2022. 05. 10. 9:58:18	Creating edge constraints
+2022. 05. 10. 9:58:18	Gathering synonyms
+2022. 05. 10. 9:58:18	Gathering defaults
+2022. 05. 10. 9:58:18	Gathering data constraint uddt bindings
+2022. 05. 10. 9:58:18	Gathering rules
+2022. 05. 10. 9:58:18	Gathering data constraint uddt bindings
+2022. 05. 10. 9:58:18	Gathering message types
+2022. 05. 10. 9:58:18	Gathering queues
+2022. 05. 10. 9:58:18	Gathering contracts
+2022. 05. 10. 9:58:18	Gathering services
+2022. 05. 10. 9:58:18	Gathering routes
+2022. 05. 10. 9:58:18	Gathering event notifications
+2022. 05. 10. 9:58:18	Gathering remote service bindings
+2022. 05. 10. 9:58:18	Gathering broker priorities
+2022. 05. 10. 9:58:18	Gathering database audit specifications
+2022. 05. 10. 9:58:18	Gathering signatures
+2022. 05. 10. 9:58:18	Gathering data compression options
+2022. 05. 10. 9:58:18	Gathering sequence types
+2022. 05. 10. 9:58:18	Gathering security policies
+2022. 05. 10. 9:58:18	Gather column encryption keys
+2022. 05. 10. 9:58:18	Gathering column master keys
+2022. 05. 10. 9:58:18	Gathering external data sources
+2022. 05. 10. 9:58:18	Gathering external file formats
+2022. 05. 10. 9:58:18	Gathering external tables
+2022. 05. 10. 9:58:18	Gathering extended properties
+2022. 05. 10. 9:58:18	Gathering assemblies
+2022. 05. 10. 9:58:18	Scanning project for duplicate elements
+2022. 05. 10. 9:58:19	Finished duplicate element processing
+2022. 05. 10. 9:58:19	Finished importing database.
+2022. 05. 10. 9:58:19	A summary of the import was saved to the following location: C:\Users\boguszlavszky.gyorgy\source\repos\Hydra\SQL-solution-test\SQL-solution-test\Import Schema Logs\SQL-solution-test_20220510075810.log
+2022. 05. 10. 9:58:19	Click Finish to continue...

@@ -1,0 +1,5 @@
+=========================BEGIN==========================
+ Hiba itt 230129.2355: https://mandiner.hu/
+ Hiba itt 230129.2357: https://mandiner.hu/
+Mandiner csak a főoldal futásidő: 00:03:11.2678885
+==================End of Transmission!==================
