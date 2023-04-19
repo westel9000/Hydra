@@ -191,7 +191,7 @@ namespace DailyNewsArchivator
         {
             int sorszam;
             sorszam = 0;
-            foreach (var item in urlList)
+            foreach (var item in urlList.ToList())
             {
                 Activate(sorszam, outputText2Log, item, hibasUrlArchivalasok);
                 new System.Threading.ManualResetEvent(false).WaitOne(50000);

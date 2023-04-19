@@ -12,7 +12,7 @@ namespace DailyNewsArchivator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Environment.NewLine + "DailyNewsArchivator v3.0" + Environment.NewLine);
+            Console.WriteLine(Environment.NewLine + "DailyNewsArchivator v3.1" + Environment.NewLine);
 
             TimeStamp TheTimeStamp = TimeStamp.Instance;
             DateTime mainTimeTrackerStart = DateTime.Now; // Fő stopper indítása.
