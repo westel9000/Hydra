@@ -114,7 +114,7 @@ namespace DailyNewsArchivator
 
             DateTime mainTimeTrackerStop = DateTime.Now; // Fő stopper leállítása.
             //Console.WriteLine($"Mandiner csak a főoldal futásidő: {mainTimeTrackerStop - mainTimeTrackerStart}");
-            outputText2Log.Add($"Mandiner csak a főoldal futásidő: {mainTimeTrackerStop - mainTimeTrackerStart}");
+            outputText2Log.Add($"Moszkvater csak a főoldal futásidő: {mainTimeTrackerStop - mainTimeTrackerStart}");
 
             outputText2Log.Add("==================End of Transmission!==================");
             System.IO.File.AppendAllLines($"moszkvater.com-fooldal-log-{TimeStamp.Instance.TheTimeStamp}.txt", outputText2Log);
